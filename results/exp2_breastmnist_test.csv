@@ -1,0 +1,5 @@
+model,C,accuracy,balanced accuracy,bal. acc. 95% CI,sensitivity
+Logistic Regression,10.0,0.744,0.742,"[0.661, 0.821]",0.738
+Classical SVM,0.1,0.795,0.762,"[0.679, 0.842]",0.69
+Quantum SVM (simple),1.0,0.776,0.764,"[0.678, 0.836]",0.738
+Quantum SVM (entangled),10.0,0.699,0.659,"[0.570, 0.742]",0.571
