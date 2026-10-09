@@ -1,0 +1,17 @@
+qubits,info kept,model,C,balanced accuracy,ci_low,ci_high,sensitivity
+2,0.1969,Logistic Regression,0.1,0.5664,0.4695,0.6598,0.5714
+2,0.1969,Classical SVM,10.0,0.7018,0.6239,0.7716,0.8333
+2,0.1969,Quantum SVM (simple),10.0,0.6792,0.6002,0.7573,0.7619
+2,0.1969,Quantum SVM (entangled),10.0,0.6673,0.5897,0.7511,0.7381
+4,0.2899,Logistic Regression,10.0,0.7419,0.6614,0.8207,0.7381
+4,0.2899,Classical SVM,0.1,0.7619,0.6786,0.8421,0.6905
+4,0.2899,Quantum SVM (simple),1.0,0.7638,0.6783,0.8364,0.7381
+4,0.2899,Quantum SVM (entangled),10.0,0.6585,0.5699,0.7424,0.5714
+6,0.3505,Logistic Regression,10.0,0.7863,0.7114,0.8565,0.8095
+6,0.3505,Classical SVM,10.0,0.7976,0.7138,0.8722,0.7619
+6,0.3505,Quantum SVM (simple),10.0,0.817,0.7397,0.8846,0.8095
+6,0.3505,Quantum SVM (entangled),1.0,0.6247,0.5422,0.7094,0.381
+8,0.3978,Logistic Regression,1.0,0.7964,0.7142,0.8688,0.7857
+8,0.3978,Classical SVM,1.0,0.8271,0.7499,0.892,0.7857
+8,0.3978,Quantum SVM (simple),10.0,0.8521,0.7786,0.9144,0.8095
+8,0.3978,Quantum SVM (entangled),0.1,0.5,0.5,0.5,0.0

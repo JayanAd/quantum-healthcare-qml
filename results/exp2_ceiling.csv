@@ -1,0 +1,3 @@
+model,C,balanced accuracy,bal. acc. 95% CI,sensitivity
+Logistic Regression (all 512),1,0.796,"[0.715, 0.864]",0.714
+Classical SVM (all 512),10,0.828,"[0.755, 0.894]",0.69
